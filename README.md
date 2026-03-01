@@ -1,3 +1,4 @@
+OPRAVENÁ VERZE PROJEKTU JE NAZVANÁ: 
 Druhou verzi projektu jsem se snažila opravit podle návrhů na zlepšení:  
 - v datovém modelu by měla být ještě kalendářová tabulka propojující tabulky přes roky  
 - font DIN v nadpisech špatně zobrazuje některé české znaky  
