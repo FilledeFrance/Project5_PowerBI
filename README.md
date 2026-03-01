@@ -1,4 +1,6 @@
-OPRAVENÁ VERZE PROJEKTU JE NAZVANÁ: 
+OPRAVENÁ VERZE PROJEKTU JE NAZVANÁ: projekt_PO_OPRAVE.  
+Původní verzi projektu s názvem projekt_final jsem v repozitari ponechala pro srovnání.  
+
 Druhou verzi projektu jsem se snažila opravit podle návrhů na zlepšení:  
 - v datovém modelu by měla být ještě kalendářová tabulka propojující tabulky přes roky  
 - font DIN v nadpisech špatně zobrazuje některé české znaky  
