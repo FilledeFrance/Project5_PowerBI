@@ -1,4 +1,4 @@
-OPRAVENÁ VERZE PROJEKTU JE NAZVANÁ: projekt_PO_OPRAVE.  
+OPRAVENÁ VERZE PROJEKTU JE NAZVANÁ: **projekt_PO_OPRAVE**.  
 Původní verzi projektu s názvem projekt_final jsem v repozitari ponechala pro srovnání.  
 
 Druhou verzi projektu jsem se snažila opravit podle návrhů na zlepšení:  
